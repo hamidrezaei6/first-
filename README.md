@@ -1,4 +1,4 @@
-# first-
+# make QR-
 import pyqrcode as pq
 mc = input('enter txt for create QR Code : ')
 myCode = pq.create(mc)
